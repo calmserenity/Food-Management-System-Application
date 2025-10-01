@@ -5,7 +5,7 @@ A charity management systems that allows real-time tracking and updates on food 
 22078877_NgKarYeeSerene_OOPFinalAssignment.mkv
 
 ## UML Diagram
-<img width="1724" height="580" alt="image" src="https://github.com/user-attachments/assets/91c8ece5-2778-4842-871e-657d7a0dac7d" />
+<img width="3840" height="1293" alt="22078877_UML CLASS DIAGRAM" src="https://github.com/user-attachments/assets/59f766c9-65b3-46fc-afe5-b62586b77477" />
 
 ## Features & Functionality 
 1. Authentication System
