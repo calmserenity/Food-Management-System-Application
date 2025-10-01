@@ -10,7 +10,8 @@ A charity management systems that allows real-time tracking and updates on food 
 <img width="761" height="476" alt="image" src="https://github.com/user-attachments/assets/b19c002b-e0f3-4518-bd2c-21b0e04d7e91" />
 <img width="766" height="481" alt="image" src="https://github.com/user-attachments/assets/9c4c1d1a-dad9-46b9-9443-7a9ee950ed89" />
 <img width="725" height="455" alt="image" src="https://github.com/user-attachments/assets/19332c57-4dbf-4565-985a-66ea7014425f" />
-more in the demo
+
+More in the demo video
 
 ## UML Diagram
 <img width="3840" height="1293" alt="22078877_UML CLASS DIAGRAM" src="https://github.com/user-attachments/assets/59f766c9-65b3-46fc-afe5-b62586b77477" />
