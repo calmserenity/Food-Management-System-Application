@@ -1,8 +1,16 @@
-# Food-Management-System-Application
+<img width="745" height="467" alt="image" src="https://github.com/user-attachments/assets/640e4d34-b21c-4896-bc85-4063ff883c59" /># Food-Management-System-Application
 A charity management systems that allows real-time tracking and updates on food items, volunteers and food bank. 
 
 ## Project Demo 
 22078877_NgKarYeeSerene_OOPFinalAssignment.mkv
+
+<img width="756" height="473" alt="image" src="https://github.com/user-attachments/assets/5a68b892-2bc6-4d00-baac-ce440d4ab9de" />
+<img width="745" height="467" alt="image" src="https://github.com/user-attachments/assets/6050ba27-9e6b-4205-8693-19bd93727996" />
+<img width="763" height="478" alt="image" src="https://github.com/user-attachments/assets/5ab04031-7fe1-4bcd-b556-588eb0c301f5" />
+<img width="761" height="476" alt="image" src="https://github.com/user-attachments/assets/b19c002b-e0f3-4518-bd2c-21b0e04d7e91" />
+<img width="766" height="481" alt="image" src="https://github.com/user-attachments/assets/9c4c1d1a-dad9-46b9-9443-7a9ee950ed89" />
+<img width="725" height="455" alt="image" src="https://github.com/user-attachments/assets/19332c57-4dbf-4565-985a-66ea7014425f" />
+more in the demo
 
 ## UML Diagram
 <img width="3840" height="1293" alt="22078877_UML CLASS DIAGRAM" src="https://github.com/user-attachments/assets/59f766c9-65b3-46fc-afe5-b62586b77477" />
