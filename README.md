@@ -1,4 +1,4 @@
-<img width="745" height="467" alt="image" src="https://github.com/user-attachments/assets/640e4d34-b21c-4896-bc85-4063ff883c59" /># Food-Management-System-Application
+# Food-Management-System-Application
 A charity management systems that allows real-time tracking and updates on food items, volunteers and food bank. 
 
 ## Project Demo 
